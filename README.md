@@ -29,9 +29,9 @@ and applied machine learning systems.
 
 ## 🧠 Technical Stack
 
-**Python:** Flask · FastAPI · Django · pandas · NumPy · PyTorch
-**JavaScript / TypeScript:** Next.js · NestJS · Express · MERN · PERN
-**PHP:** Backend APIs · Server-side applications
+**Python:** Flask · FastAPI · Django · pandas · NumPy · PyTorch\
+**JavaScript / TypeScript:** Next.js · NestJS · Express · MERN · PERN\
+**PHP:** Backend APIs · Server-side applications\
 **Deep Learning:** NVIDIA Deep Learning Fundamentals (Certified) ·
 PyTorch · Data Pipelines · Model Experimentation
 
