@@ -1,79 +1,52 @@
-# 👋 Hi, I'm Fave Ejiofor
+# Hi, I'm Fave Ejiofor 👋
 
-**Full-Stack Engineer \| Systems Builder \| SDK & Library Developer**
+**Full-Stack Engineer \| Backend Systems Architect \| SDK & Library
+Developer**
 
-I build scalable backend systems, modern web applications, and
+I build scalable backend systems, production-ready APIs, and
 developer-focused tools.\
-My interests sit at the intersection of backend architecture,
-authentication systems, and applied deep learning.
-
-I care about clean abstractions, performance, and writing software that
-scales beyond v1.
+My work focuses on clean architecture, authentication infrastructure,
+and applied machine learning systems.
 
 ------------------------------------------------------------------------
 
-## 🧠 Tech Stack
+## 🚀 What I Do
 
-### 🐍 Python
-
--   Flask
--   FastAPI
--   Django
--   pandas
--   NumPy
--   PyTorch
-
-### 🌐 JavaScript / TypeScript
-
--   Next.js
--   NestJS
--   Express
--   MERN Stack
--   PERN Stack
-
-### 🐘 PHP
-
--   Backend APIs
--   Server-side applications
-
-### 🤖 Deep Learning
-
--   NVIDIA Deep Learning Fundamentals (Certified)
--   PyTorch
--   Model experimentation
--   Data pipelines
-
-### 🧩 Engineering Focus
-
--   SDK & Library Development
--   API Design
--   Authentication Systems
--   Modular Architecture
--   Database Abstractions
--   Performance Optimization
+-   **Backend Engineering:** Designing scalable APIs and modular server
+    architectures using FastAPI, Django, NestJS, and Express
+-   **Full-Stack Development:** Building end-to-end applications with
+    Next.js, MERN, and PERN stacks
+-   **SDK & Library Development:** Creating extensible,
+    framework-agnostic tools and authentication systems
+-   **Deep Learning & Data Systems:** Developing ML workflows using
+    PyTorch, NumPy, and pandas
+-   **System Design:** Architecting database-agnostic systems and clean
+    abstraction layers
+-   **Performance & Security:** Optimizing backend performance and
+    implementing secure authentication flows
 
 ------------------------------------------------------------------------
 
-## 🏗 What I Enjoy Building
+## 🧠 Technical Stack
 
--   Developer tools & SDKs
+**Python:** Flask · FastAPI · Django · pandas · NumPy · PyTorch
+**JavaScript / TypeScript:** Next.js · NestJS · Express · MERN · PERN
+**PHP:** Backend APIs · Server-side applications
+**Deep Learning:** NVIDIA Deep Learning Fundamentals (Certified) ·
+PyTorch · Data Pipelines · Model Experimentation
+
+------------------------------------------------------------------------
+
+## 🏗 Engineering Focus
+
 -   Authentication & authorization systems
--   Clean backend architectures
--   Monorepo-based systems
--   Data-driven applications
--   Applied ML systems
+-   Strategy & adapter design patterns
+-   Database abstraction layers
+-   Monorepo architecture
+-   Developer-first tooling
+-   Clean, extensible SDK design
 
-I'm especially interested in building tools that other developers use.
-
-------------------------------------------------------------------------
-
-## 🧠 Engineering Principles
-
--   Design interfaces before implementations
--   Keep core logic framework-agnostic
--   Prefer composition over tight coupling
--   Make systems extensible from day one
--   Security and performance are not optional
+I enjoy building systems that other developers can extend and rely on.
 
 ------------------------------------------------------------------------
 
@@ -81,8 +54,18 @@ I'm especially interested in building tools that other developers use.
 
 -   Advanced backend architecture
 -   Scalable authentication infrastructure
--   Deeper exploration into deep learning systems
--   High-performance TypeScript & Python systems
+-   High-performance TypeScript systems
+-   Applied deep learning integration into production systems
+
+------------------------------------------------------------------------
+
+## 🧩 Core Principles
+
+-   Design interfaces before implementations
+-   Keep core logic framework-agnostic
+-   Avoid tight coupling
+-   Optimize for extensibility
+-   Security and performance are non-negotiable
 
 ------------------------------------------------------------------------
 
@@ -90,7 +73,6 @@ I'm especially interested in building tools that other developers use.
 
 -   GitHub: https://github.com/cihper-d-dev
 -   LinkedIn: https://linkedin.com/in/fave-ejiofor-a05bab260
-
 ------------------------------------------------------------------------
 
 > Ship fast. Architect for scale. Secure by default.
